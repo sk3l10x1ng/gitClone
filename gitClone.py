@@ -12,7 +12,7 @@ def git():
                 l = line.strip()
                 if len(l.strip()) != 0:
                     print("#####################################################\n")
-                    subprocess.run(['git', 'clone',l])
+                    subprocess.run(['git', 'clone', l])
                     print("\n")
 
 git()
