@@ -1,6 +1,6 @@
 # gitClone
 
 
-# USAGE :- 
+ USAGE :- 
 
         ./gitclone [ FILE path ]  [ Destination path ] 
