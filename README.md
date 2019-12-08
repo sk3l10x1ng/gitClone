@@ -3,4 +3,4 @@
 
  USAGE :- 
 
-        ./gitclone [ FILE path ]  [ Destination path ] 
+        ./gitClone [ FILE path ]  [ Destination path ] 
