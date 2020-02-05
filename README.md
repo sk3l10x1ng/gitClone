@@ -5,4 +5,4 @@
  
  USAGE :- 
 
-        ./gitClone [ FILE path ]  [ Destination path ] 
+        ./gitClone.py [ FILE path ]  [ Destination path ] 
